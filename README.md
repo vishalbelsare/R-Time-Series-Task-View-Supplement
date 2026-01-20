@@ -546,6 +546,8 @@ R time series packages not included in [CRAN Task View: Time Series Analysis](ht
 
 [sarima](https://cran.r-project.org/web/packages/sarima/index.html): Simulation and Prediction with Seasonal ARIMA Models
 
+[SDGLM](https://cran.r-project.org/web/packages/SDGLM/index.html): Scalable Bayesian Inference for Dynamic Generalized Linear Models
+
 [sdrt](https://cran.r-project.org/web/packages/sdrt/index.html): Estimating the Sufficient Dimension Reduction Subspaces in Time Series
 
 [seasonal](https://cran.r-project.org/web/packages/seasonal/index.html): R Interface to X-13-ARIMA-SEATS
